@@ -1,0 +1,66 @@
+.timer_0 {
+	background: url('../assets/timer.png')  no-repeat 0 0;
+	width: 67px;
+	height: 85px;
+}
+
+.timer_1 {
+	background: url('../assets/timer.png') no-repeat -126px 0;
+	width: 41px;
+	height: 85px;
+}
+
+.timer_2 {
+	background: url('../assets/timer.png') no-repeat -241px 0;
+	width: 64px;
+	height: 85px;
+}
+
+.timer_3 {
+	background: url('../assets/timer.png') no-repeat -365px 0;
+	width: 62px;
+	height: 85px;
+}
+
+.timer_4 {
+	background: url('../assets/timer.png') no-repeat -477px 0;
+	width: 67px;
+	height: 85px;
+}
+
+.timer_5 {
+	background: url('../assets/timer.png') no-repeat -608px 0;
+	width: 69px;
+	height: 85px;
+}
+
+.timer_6 {
+	background: url('../assets/timer.png') no-repeat -743px 0;
+	width: 67px;
+	height: 85px;
+}
+
+.timer_7 {
+	background: url('../assets/timer.png') no-repeat -863px 0;
+	width: 54px;
+	height: 85px;
+}
+
+.timer_8 {
+	background: url('../assets/timer.png') no-repeat -981px 0;
+	width: 68px;
+	height: 85px;
+}
+
+.timer_9 {
+	background: url('../assets/timer.png') no-repeat -1126px 0;
+	width: 70px;
+	height: 85px;
+}
+
+.timer_d {
+	background: url('../assets/timer.png') no-repeat -1276px -10px;
+	width: 37px;
+	height: 68px;
+}
+
